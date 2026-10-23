@@ -1,8 +1,16 @@
+![AppGuide+ GAMES](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # 그린맨게이밍 구매 안내: GMG 게임 키·지역·환불
 
 같은 게임이라도 활성화 플랫폼과 에디션, 이용 지역이 다를 수 있습니다. GMG 상품 페이지에서 내 계정과 기기에 맞는 상품인지 먼저 확인하세요.
 
-[전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/green-man-gaming/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/green-man-gaming/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 어떤 상품을 찾고 있나요?
 
@@ -10,6 +18,9 @@
 | --- | --- | --- |
 | 처음 구매하는 게임 | 본편 | 활성화 플랫폼·지원 지역·시스템 요구사항을 확인하세요. |
 | 보유 게임을 확장 | DLC·에디션 | 기본 게임 필요 여부와 보유한 플랫폼·버전의 호환성을 확인하세요. |
+
+<details>
+<summary><strong>핵심 정보</strong></summary>
 
 ## 핵심 정보
 
@@ -19,11 +30,21 @@
 | 활성화 전 | 상품과 계정 지역 확인 |
 | 환불 주의 | 키 공개·활성화·다운로드 |
 
+</details>
+
+<details>
+<summary><strong>키를 보기 전에 환불 조건을 읽으세요</strong></summary>
+
 ## 키를 보기 전에 환불 조건을 읽으세요
 
 GMG는 판매 가능한 지역에 따라 상품을 다르게 제공할 수 있습니다. VPN으로 구매 지역을 우회하지 말고 실제 지역에서 사용할 수 있는 상품을 선택하세요.
 
 키를 공개하거나 활성화·다운로드한 뒤에는 환불이 제한될 수 있습니다. Steam의 일반 구매 환불 조건을 GMG에서 산 키에 그대로 적용하지 마세요.
+
+</details>
+
+<details>
+<summary><strong>이용 순서</strong></summary>
 
 ## 이용 순서
 
@@ -31,6 +52,11 @@ GMG는 판매 가능한 지역에 따라 상품을 다르게 제공할 수 있�
 2. 지역 제한·기본 게임 필요 여부·사양을 확인합니다.
 3. 최종 결제액과 GMG 환불 정책을 확인합니다.
 4. 구매 상품이 맞는지 확인한 뒤 안내된 플랫폼에서 활성화합니다.
+
+</details>
+
+<details>
+<summary><strong>자주 묻는 질문</strong></summary>
 
 ## 자주 묻는 질문
 
@@ -42,13 +68,28 @@ GMG 구매는 GMG의 환불 정책을 먼저 확인해야 합니다. Steam 직�
 
 현재 가격은 GMG 공식 상품 페이지에서 확인할 수 있습니다. 이 안내는 구매와 활성화 조건을 설명합니다.
 
+</details>
+
+<details>
+<summary><strong>단계별 가이드</strong></summary>
+
 ## 단계별 가이드
 
 - [GMG에서 산 Steam 키 등록과 활성화 오류 확인](green-man-gaming-activation.ko.md)
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [앱스모 평생 이용권: AppSumo 라이선스·등록·환불 안내](https://github.com/appguideplus/app-license-guides/blob/main/appsumo.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -58,3 +99,11 @@ GMG 구매는 GMG의 환불 정책을 먼저 확인해야 합니다. Steam 직�
 내용 확인일: 2026-09-13. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/green-man-gaming/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.

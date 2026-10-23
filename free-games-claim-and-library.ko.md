@@ -1,8 +1,16 @@
+![AppGuide+ GAMES](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # 무료 게임 받는 법: Epic·Steam 수령과 라이브러리 확인
 
 무료 배포 링크를 여는 것만으로 게임이 계정에 등록되지는 않습니다. 스토어에서 직접 받는 게임과 코드를 등록하는 게임을 나눠, 수령 후 어디에서 찾아야 하는지 정리했습니다.
 
-[무료 게임 배포](free-games.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/free-games/claim-and-library/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/free-games/claim-and-library/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 먼저 본편인지 체험판인지 보기
 
@@ -15,6 +23,9 @@
 | DLC·아이템 | 기본 게임과 대상 계정이 맞는지 |
 | 베타·무료 체험 | 플레이할 수 있는 기간과 접근 범위 |
 
+<details>
+<summary><strong>Epic에서 무료 게임 받기</strong></summary>
+
 ## Epic에서 무료 게임 받기
 
 Epic의 무료 게임 페이지에서 현재 배포를 찾을 수 있습니다. 배포 목록에 적힌 가격과 내 계정의 상품 화면이 다르면 상품 화면을 기준으로 진행하세요.
@@ -26,6 +37,11 @@ Epic의 무료 게임 페이지에서 현재 배포를 찾을 수 있습니다. 
 
 출처: [Epic 무료 게임 공식 안내](https://www.epicgames.com/help/c-32735058/c-31480328/a17103705)
 
+</details>
+
+<details>
+<summary><strong>Epic 코드를 받은 경우</strong></summary>
+
 ## Epic 코드를 받은 경우
 
 외부 배포처에서 받은 Epic용 코드는 스토어의 무료 게임 받기와 등록 위치가 다릅니다.
@@ -35,6 +51,11 @@ Epic의 무료 게임 페이지에서 현재 배포를 찾을 수 있습니다. 
 3. 등록 성공 메시지와 라이브러리의 게임을 확인합니다.
 
 출처: [Epic 코드 등록](https://www.epicgames.com/help/c-41804731/a17592099)
+
+</details>
+
+<details>
+<summary><strong>Steam 제품 키 등록하기</strong></summary>
 
 ## Steam 제품 키 등록하기
 
@@ -47,6 +68,11 @@ Steam용 키는 Steam 클라이언트에서 등록할 수 있습니다. Epic용 
 
 출처: [Steam 제품 키 등록](https://help.steampowered.com/en/faqs/view/2A12-9D79-C3D7-F870)
 
+</details>
+
+<details>
+<summary><strong>받았는데 라이브러리에 없다면</strong></summary>
+
 ## 받았는데 라이브러리에 없다면
 
 우선 스토어와 로그인 계정을 대조하세요. Epic에서 받은 게임은 Steam 라이브러리에 자동으로 생기지 않습니다. 필터가 걸려 있으면 해제하고 게임명으로 검색합니다.
@@ -55,9 +81,19 @@ Steam용 키는 Steam 클라이언트에서 등록할 수 있습니다. Epic용 
 
 출처: [Epic 코드 등록](https://www.epicgames.com/help/c-41804731/a17592099) · [Steam 제품 키 등록](https://help.steampowered.com/en/faqs/view/2A12-9D79-C3D7-F870) · [Steam 소매 제품 키 도움말](https://help.steampowered.com/en/faqs/view/0E71-0971-324A-1161)
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [무료 게임 배포 목록: PC·모바일 본편, DLC와 베타](free-games.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -69,3 +105,11 @@ Steam용 키는 Steam 클라이언트에서 등록할 수 있습니다. Epic용 
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/free-games/claim-and-library/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.

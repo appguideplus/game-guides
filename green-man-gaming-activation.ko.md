@@ -1,8 +1,16 @@
+![AppGuide+ GAMES](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # GMG에서 산 Steam 키 등록과 활성화 오류 확인
 
 구매한 상품이 Steam용 키라면 Steam 클라이언트에서 등록합니다. 키를 열기 전에는 플랫폼·지역·에디션을, 등록한 뒤에는 라이브러리의 제품명을 살펴보세요.
 
-[Green Man Gaming](green-man-gaming.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/green-man-gaming/activation/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/green-man-gaming/activation/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 본편·DLC·에디션 확인
 
@@ -10,17 +18,30 @@
 
 Standard·Deluxe 등의 에디션 이름만으로 포함 내용을 추측하지 마세요. 구성품과 보유한 콘텐츠가 겹치는지 비교합니다.
 
+<details>
+<summary><strong>지역과 활성화 플랫폼</strong></summary>
+
 ## 지역과 활성화 플랫폼
 
 실제 거주·사용 지역에서 활성화 가능한지 상품 페이지에서 확인합니다. Steam·다른 런처 등 활성화 플랫폼도 명확히 구분하세요.
 
 VPN이나 프록시로 구매 지역을 바꾸지 마세요. GMG는 이런 구매가 작동하지 않거나 환불 대상이 아닐 수 있다고 안내합니다.
 
+</details>
+
+<details>
+<summary><strong>키 공개 전에 환불 조건</strong></summary>
+
 ## 키 공개 전에 환불 조건
 
 GMG의 구매는 Steam 직접 구매와 환불 정책이 다릅니다. 키 공개·활성화·다운로드 여부가 환불 판단에 영향을 줄 수 있습니다.
 
 잘못 구매했다면 확인을 위해 키부터 열지 말고 공식 지원의 현재 조건을 확인하세요. 본인이 원하는 사양에서 실행되지 않는다는 이유만으로 환불이 보장되지 않습니다.
+
+</details>
+
+<details>
+<summary><strong>Steam용 키 등록 순서</strong></summary>
 
 ## Steam용 키 등록 순서
 
@@ -33,6 +54,11 @@ GMG의 구매는 Steam 직접 구매와 환불 정책이 다릅니다. 키 공�
 
 출처: [Steam 제품 등록 순서](https://help.steampowered.com/en/faqs/view/2A12-9D79-C3D7-F870)
 
+</details>
+
+<details>
+<summary><strong>이미 사용한 키·잘못된 키 오류</strong></summary>
+
 ## 이미 사용한 키·잘못된 키 오류
 
 Steam용 코드인지와 복사한 문자열을 먼저 대조하세요. 이미 등록했다면 그때 사용한 Steam 계정에서 게임을 찾아봅니다.
@@ -41,9 +67,19 @@ Steam용 코드인지와 복사한 문자열을 먼저 대조하세요. 이미 �
 
 출처: [GMG 환불 정책](https://www.greenmangaming.com/refund-policy/) · [Steam 소매 제품 키 문제](https://help.steampowered.com/en/faqs/view/0E71-0971-324A-1161)
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [그린맨게이밍 구매 안내: GMG 게임 키·지역·환불](green-man-gaming.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -55,3 +91,11 @@ Steam용 코드인지와 복사한 문자열을 먼저 대조하세요. 이미 �
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/green-man-gaming/activation/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.
